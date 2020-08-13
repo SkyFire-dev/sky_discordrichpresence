@@ -1,4 +1,4 @@
---Creado Por SkyFire, si lo usas dame creditos cruck
+--Creado Por SkyFire, gracias por usarlo :)
 Citizen.CreateThread(function()
     while true do
         local player = GetPlayerPed(-1)
